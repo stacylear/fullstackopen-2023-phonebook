@@ -6,13 +6,15 @@ This API is a simple phonebook application that allows you to perform basic CRUD
 
 **Tech used:** <img src="https://img.shields.io/badge/-JavaScript-B4E582?logo=javascript&logoColor=F7DF1E&style=flat&labelColor=454545"> <img src="https://img.shields.io/badge/-Express-B4E582?logo=express&logoColor=F7DF1E&style=flat&labelColor=454545"> <img src="https://img.shields.io/badge/-Node.js-B4E582?logo=nodedotjs&logoColor=F7DF1E&style=flat&labelColor=454545">
 
+Try it! Test functionality in Postman using <a href="https://smiling-lamb-cloak.cyclic.app/">this URL.</a>
+
 # Documentation
 
 ## Endpoints
 * GET /api/persons: returns a list of all the people in the phonebook
 * GET /info: returns a message with the number of people in the phonebook and the current date
-* GET /api/persons/:id: returns the details of a person with a given id
-* DELETE /api/persons/:id: deletes a person with a given id
+* GET /api/persons/id: returns the details of a person with a given id
+* DELETE /api/persons/id: deletes a person with a given id
 * POST /api/persons: creates a new person in the phonebook
 
 ## Request Body
