@@ -6,7 +6,7 @@ This API is a simple phonebook application that allows you to perform basic CRUD
 
 **Tech used:** <img src="https://img.shields.io/badge/-JavaScript-B4E582?logo=javascript&logoColor=F7DF1E&style=flat&labelColor=454545"> <img src="https://img.shields.io/badge/-Express-B4E582?logo=express&logoColor=F7DF1E&style=flat&labelColor=454545"> <img src="https://img.shields.io/badge/-Node.js-B4E582?logo=nodedotjs&logoColor=F7DF1E&style=flat&labelColor=454545">
 
-Try it! Test functionality in Postman using <a href="https://smiling-lamb-cloak.cyclic.app/">this URL.</a>
+Try it! Test functionality in <a href="https://www.postman.com/">Postman</a> using <a href="https://smiling-lamb-cloak.cyclic.app/">this URL.</a>
 
 # Documentation
 
